@@ -3,6 +3,7 @@
 <p>For this lab, I logged into my pi from my laptop after connecting both to my personal hotspot, then checked that I had python3 installed. I'd already installed it, so I just updated it and installed necessary packages using the following commands</p>
 
   > sudo apt install jdcal
+> 
   > sudo apt install astral
   > sudo apt install geopy
   > sudo apt install pytz
