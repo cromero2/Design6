@@ -5,7 +5,9 @@
   > sudo apt install jdcal
 > 
   > sudo apt install astral
+> 
   > sudo apt install geopy
+> 
   > sudo apt install pytz
 
 <p>Then, I went through the example files in the specified directory</p>
