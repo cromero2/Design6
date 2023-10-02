@@ -11,5 +11,8 @@
   > sudo apt install pytz
 
 <p>Then, I went through the example files in the specified directory</p>
-![image](https://github.com/cromero2/Design6/assets/98184880/418baf62-610c-4b7d-9c19-a9f830e0a9b3)
+
+![image](https://github.com/cromero2/Design6/assets/98184880/72fafb88-556c-4378-a6bb-2eeabaa61849)
+
+
 *Heres a screenshot of the last few example files on that list in the powerpoint*
