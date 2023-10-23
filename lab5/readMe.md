@@ -12,4 +12,5 @@
 
 <p>Here is the final part of the lab where I changed the name of the topic to be 'Calebs Pi' and I can publish and subscribe to my raspberry pi's cpu data:</p>
 
-![image](https://github.com/cromero2/Design6/assets/98184880/94d2f41d-948d-400e-8c89-c727959b66b2)
+![image](https://github.com/cromero2/Design6/assets/98184880/d91ab053-5c86-4eed-9004-810e1e813607)
+
