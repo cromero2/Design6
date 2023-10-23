@@ -13,8 +13,11 @@
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/2bad7083-9515-48c8-a1c2-39d8038a2214)
 
-After setting up the mycpu example however, I was unable to view the /home/ part of the server at all. I got an error that seemed to be related to the views.py file. The error I received is below:
+<p>After setting up the mycpu example and recreating a superuser with a correct user and passwork, I was able to view the CPU statistics of my raspberry pi from my laptop. Below is an image of that:</p>
 
-![image](https://github.com/cromero2/Design6/assets/98184880/965c9661-5173-4a08-ae67-82aa6a97e78a)
+![image](https://github.com/cromero2/Design6/assets/98184880/7c7f1630-0577-4b20-a31e-c046cd7a4df3)
 
-I will try and talk with Professor Lu about resolving the error
+<p>Finally, for this lab we were instructed to start up a Flask Server that would display "Hello World!" when you connect to the server via chromium. Below is a screenshot of my browser on the pi:</p>
+
+![image](https://github.com/cromero2/Design6/assets/98184880/6f23b63a-4d29-4579-976f-046d36ffb1c0)
+
