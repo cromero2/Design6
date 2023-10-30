@@ -11,3 +11,7 @@
 <p>The final code that I ran for this part of the lab was the http.js, which counted and wrote to a file the number of times the webpage had been refreshed. I tried to reset the counter and accidentally received a 'NaN' output. However, I eventually fixed it, which can be seen below</p>
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/9d4bbfa9-2771-4bfc-bf82-223381f8a528)
+
+<p>And for the final part of the lab, I installed pystache and ran the example code as shown in the instructions:</p>
+
+![image](https://github.com/cromero2/Design6/assets/98184880/61cbdbf3-747e-4f73-ad20-a293d0620a05)
