@@ -8,3 +8,6 @@
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/c942e790-1a55-4223-be8e-fe50b0a13906)
 
+<p>The final code that I ran for this part of the lab was the http.js, which counted and wrote to a file the number of times the webpage had been refreshed. I tried to reset the counter and accidentally received a 'NaN' output. However, I eventually fixed it, which can be seen below</p>
+
+![image](https://github.com/cromero2/Design6/assets/98184880/9d4bbfa9-2771-4bfc-bf82-223381f8a528)
