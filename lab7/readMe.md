@@ -12,5 +12,4 @@
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/6881cbc9-89e8-47d0-8607-1cc86e404d7a)
 
-
-![image](https://github.com/cromero2/Design6/assets/98184880/de01763c-0429-49fc-8724-7c95c220a77f)
+![image](https://github.com/cromero2/Design6/assets/98184880/85db5c98-186c-44f1-9f68-adde2bb305d4)
