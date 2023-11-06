@@ -12,4 +12,6 @@
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/6881cbc9-89e8-47d0-8607-1cc86e404d7a)
 
-![image](https://github.com/cromero2/Design6/assets/98184880/85db5c98-186c-44f1-9f68-adde2bb305d4)
+<p>I changed /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd in system_info.py, and then ran the code: </p>
+
+![image](https://github.com/cromero2/Design6/assets/98184880/bdd4a4b7-069a-4579-a7f3-e5039556532d)
