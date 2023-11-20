@@ -13,3 +13,10 @@
 ![image](https://github.com/cromero2/Design6/assets/98184880/c16f7f42-6389-4aa1-b739-ed243f81d960)
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/72aa515e-1b51-4af6-a6f4-b5086aaf7f3a)
+
+
+<p>I also ran the keras and titanic examples as was shown in the github directory:</p>
+
+![image](https://github.com/cromero2/Design6/assets/98184880/1790752f-552f-41d0-a799-9a3c04c48433)
+
+![image](https://github.com/cromero2/Design6/assets/98184880/04157acb-2a56-425b-946b-f3153f7ef1d3)
