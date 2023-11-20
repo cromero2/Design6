@@ -1,4 +1,4 @@
-## Lab 8
+## Lab 8A
 
 <p>I installed the listed packages on my raspberry pi and followed the example numpy commands in python. Here is a screenshot of the last few:</p>
 
@@ -20,3 +20,6 @@
 ![image](https://github.com/cromero2/Design6/assets/98184880/1790752f-552f-41d0-a799-9a3c04c48433)
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/04157acb-2a56-425b-946b-f3153f7ef1d3)
+
+## Lab 8B
+
