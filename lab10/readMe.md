@@ -8,7 +8,7 @@
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/21cb015c-8b5f-40e6-abae-f53ae8057afc)
 
-<p></p>
+<p>By remote connection to my pi, I was able to access the 127.0.0.1 server to view that my entry had been added to the blockchain</p>
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/0a7b43e6-4ab5-48a8-ab00-0cc457aef6b8)
 
