@@ -23,3 +23,6 @@
 
 ## Lab 8B
 
+<p>After gathering data from the rpidata python code from last lab, I converted the google sheets file to a .csv and modified the code to generate the graphs of my recorded data:</p>
+
+![image](https://github.com/cromero2/Design6/assets/98184880/5e24306e-0fda-4873-a891-8d9b474987ab)
