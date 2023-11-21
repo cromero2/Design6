@@ -1,6 +1,6 @@
 ## Lab 10
 
-<p></p>
+<p>First, I ran the hash value python code twice and saw that the codes for each field varied between executions of the code. Then I followed the python3 commands to experiment with hashlib. </p>
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/f49258c2-7832-40d8-b6ff-6d254498bbc4)
 
