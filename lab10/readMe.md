@@ -12,7 +12,7 @@
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/0a7b43e6-4ab5-48a8-ab00-0cc457aef6b8)
 
-<p></p>
+<p>Finally, I ran the Python blockchain app, where I was successfully able to use the web interface to make a custom post to the blockchain</p>
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/23863356-e7d6-4c57-8868-52eaff5bfd6d)
 
