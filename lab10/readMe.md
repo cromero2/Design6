@@ -1,6 +1,6 @@
 ## Lab 10
 
-<p>First, I ran the hash value python code twice and saw that the codes for each field varied between executions of the code. Then I followed the python3 commands to experiment with hashlib. Finally, I ran the first version of the blockchain code: </p>
+<p>First, I ran the hash value python code twice and saw that the codes for each field varied between executions of the code. Then I followed the python3 commands to experiment with hashlib. Finally, I ran the first version of the blockchain code, snakecoin.py: </p>
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/f49258c2-7832-40d8-b6ff-6d254498bbc4)
 
@@ -8,7 +8,7 @@
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/21cb015c-8b5f-40e6-abae-f53ae8057afc)
 
-<p>By remote connection to my pi, I was able to access the 127.0.0.1 server to view that my entry had been added to the blockchain</p>
+<p>I then ran the snakecoin server code, and by remote desktop connection to my pi, I was able to access the 127.0.0.1 server to view that my entry had been added to the blockchain from running code on terminal 2</p>
 
 ![image](https://github.com/cromero2/Design6/assets/98184880/0a7b43e6-4ab5-48a8-ab00-0cc457aef6b8)
 
